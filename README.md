@@ -1,4 +1,4 @@
 # TugasMobProProfile
 Tugas Mobile Programming 
 
-![Profile](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Profile](https://github.com/dickyab/TugasMobProProfile/blob/main/Profile%20Dicky.jpg?raw=true)
